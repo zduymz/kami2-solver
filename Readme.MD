@@ -9,3 +9,4 @@ Eg: python solver.py sample.jpg 4
 # TODO
 + Using bruteforce all possible cases so it will be slow when number of moves is big
 + Need improvement to work all image size (other phones resolution). It only works with iphone 5 solution now.
++ Work with special case (blank space)
